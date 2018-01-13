@@ -1,0 +1,2 @@
+# Amazoncoin
+amazon coin
